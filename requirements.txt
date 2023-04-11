@@ -1,0 +1,15 @@
+pandas==1.4.0
+numpy==1.22.0
+matplotlib==3.4.3
+smtplib==0.1.0
+fmp_python==1.4
+plotly==5.0.0
+dash==2.0.0
+dcc==2.0.0
+html==2.0.0
+datetime==4.3
+timedelta==1.0.0
+timeloop==0.6.0
+telepot==12.7
+requests==2.26.0
+plotly-express==0.5.0
